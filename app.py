@@ -1,4 +1,3 @@
-# app.py
 def main():
     return "Hello, DevOps!"
 
